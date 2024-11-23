@@ -1,0 +1,7 @@
+number = -4
+if number > 0:
+    print("Number is positive")
+elif number == 0:
+    print("Number is zero")
+else:
+    print("NUmber is negative")
